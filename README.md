@@ -1,2 +1,2 @@
 # erp
-ERP Database Schema
+Enterprise Resource Planning Database Schema
